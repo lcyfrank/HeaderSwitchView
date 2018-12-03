@@ -8,7 +8,7 @@ This view is used to show the different date more ofen now, like *week day* or *
 
 ### Preview
 
-![](./Demo/demo_1.png)
+<img src='./Demo/demo_1.png' width=100px>
 
 ### How to use
 
